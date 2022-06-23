@@ -37,14 +37,14 @@ style:
 
   # First screen
   first_screen:
-    enable: false
-    background_img: /images/bg.svg # You can use local image or image external link
-    description: Keep writing and Keep loving.
+    enable: true
+    background_img: /images/1.jpg # You can use local image or image external link
+    description: 做痛苦的人，不做快乐的猪.
 
   # Scroll style settings
   scroll:
     progress_bar:
-      enable: false
+      enable: true
     percent:
       enable: false
 
@@ -69,10 +69,10 @@ social_contact:
 menu:
   Home: /
   Archives: /archives
-  # Categories: /categories
-  # Tags: /tags
-  # Links: /links
-  # About: /about
+  Categories: /categories
+  Tags: /tags
+  Links: /links
+  About: /about
   # Changelog: /changelog
   # ......
 
@@ -95,9 +95,9 @@ post:
   # Dependencies: hexo-wordcount (npm install hexo-wordcount)
   # See: https://github.com/willin/hexo-wordcount
   word_count:
-    enable: false
-    wordcount: false # word count, one article
-    min2read: false # time to read, one article
+    enable: true
+    wordcount: true # word count, one article
+    min2read: true # time to read, one article
 
   # Author label
   author_label:
@@ -117,13 +117,13 @@ code_copy:
 # Table of Contents in the Sidebar
 # ---------------------------------------------------------------------------------------
 toc:
-  enable: false
+  enable: true
 
   # Automatically add list number to toc.
-  number: false
+  number: true
 
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
-  expand_all: false
+  expand_all: true
 
   # If true, open TOC every time when you enter the article page
   init_open: false
@@ -132,7 +132,7 @@ toc:
 # Post copyright info
 # ---------------------------------------------------------------------------------------
 copyright_info:
-  enable: false
+  enable: true
 
 # ---------------------------------------------------------------------------------------
 # Website count
@@ -152,8 +152,8 @@ website_count:
 # See: https://github.com/theme-next/hexo-generator-searchdb
 # ---------------------------------------------------------------------------------------
 local_search:
-  enable: false
-  preload: false # Preload the search data when the page loads
+  enable: true
+  preload: true # Preload the search data when the page loads
 
 # ---------------------------------------------------------------------------------------
 # Comment plugin
@@ -172,10 +172,10 @@ comment:
   # Gitalk
   # See: https://github.com/gitalk/gitalk
   gitalk:
-    github_id: # GitHub repo owner
-    repository: # Repository name to store issues
-    client_id: # GitHub Application Client ID
-    client_secret: # GitHub Application Client Secret
+    github_id: jjhuang01 # GitHub repo owner
+    repository: gitalk # Repository name to store issues
+    client_id: 2ef113e0c42252b939ed # GitHub Application Client ID
+    client_secret: 23c6e5b17bd71101c8b48e73e8a045cab0dcae06 # GitHub Application Client Secret
 
   # Twikoo
   # See: https://github.com/imaegoo/twikoo
@@ -189,13 +189,13 @@ comment:
 # See: https://github.com/hexojs/hexo-generator-feed
 # ---------------------------------------------------------------------------------------
 rss:
-  enable: false
+  enable: true
 
 # ---------------------------------------------------------------------------------------
 # Lazyload image
 # ---------------------------------------------------------------------------------------
 lazyload:
-  enable: false
+  enable: true
 
 # ---------------------------------------------------------------------------------------
 # CDN
