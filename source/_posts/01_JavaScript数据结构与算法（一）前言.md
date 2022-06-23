@@ -1,5 +1,5 @@
 ---
-title: 数据结构与算法（一）前言
+title: 01_JavaScript数据结构与算法（一）前言
 date: 2022-06-23 22:57:41
 tags:
   - JavaScript
