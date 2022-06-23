@@ -78,9 +78,9 @@ social_contact:
 
 
 menu:
-  Home: /
+  # Home: /
   Archives: /archives
-  Categories: /categories
+  # Categories: /categories
   Tags: /tags
   Links: /links
   About: /about  
