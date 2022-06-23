@@ -46,7 +46,7 @@ style:
     progress_bar:
       enable: true
     percent:
-      enable: false
+      enable: true
 
 # ---------------------------------------------------------------------------------------
 # Social contact link
@@ -84,7 +84,7 @@ menu:
   标签: /tags
   友链: /links
   关于: /about  
-  更新日志: /changelog
+  # 更新日志: /changelog
 
 # ---------------------------------------------------------------------------------------
 # Home page article block display settings
