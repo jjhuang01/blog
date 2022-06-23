@@ -101,6 +101,9 @@ ignore:
 #theme: bear
 theme: keep
 
+all_minifier: true
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
