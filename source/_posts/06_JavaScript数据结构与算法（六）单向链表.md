@@ -1,7 +1,10 @@
 ---
-title: JavaScript 数据结构与算法（六）单向链表
-date: 2022-06-23 08:22:26
+title: 06_JavaScript数据结构与算法（六）单向链表
+date: 2022-06-23 23:01:05
 tags:
+  - JavaScript
+categories:
+  - 编程
 ---
 
 # JavaScript 数据结构与算法（六）单向链表

@@ -1,8 +1,12 @@
 ---
-title: JavaScript 数据结构与算法（二）数组
-date: 2022-06-23 08:22:26
+title: 02_JavaScript数据结构与算法（二）数组
+date: 2022-06-23 22:58:28
 tags:
+  - JavaScript
+categories:
+  - 编程
 ---
+
 
 # JavaScript 数据结构与算法（二）数组
 

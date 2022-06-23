@@ -1,7 +1,10 @@
 ---
-title: JavaScript 数据结构与算法（四）队列
-date: 2022-06-23 08:22:26
+title: 04_JavaScript数据结构与算法（四）队列
+date: 2022-06-23 22:59:39
 tags:
+  - JavaScript
+categories:
+  - 编程
 ---
 
 # JavaScript 数据结构与算法（四）队列

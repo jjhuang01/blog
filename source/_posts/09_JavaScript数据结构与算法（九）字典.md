@@ -1,7 +1,10 @@
 ---
-title: JavaScript 数据结构与算法（九）字典
-date: 2022-06-23 08:22:26
+title: 09_JavaScript 数据结构与算法（九）字典
+date: 2022-06-23 23:02:41
 tags:
+  - JavaScript
+categories:
+  - 编程
 ---
 
 # JavaScript 数据结构与算法（九）字典

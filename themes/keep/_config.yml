@@ -78,12 +78,13 @@ social_contact:
 
 
 menu:
-  首页: /
-  归档: /archives
-  分类: /categories
-  标签: /tags
-  友链: /links
-  关于: /about  
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
+  Links: /links
+  About: /about  
+  Changelog: /changelog
   # 更新日志: /changelog
 
 # ---------------------------------------------------------------------------------------
