@@ -175,6 +175,11 @@ comment:
   # Valine
   # See: https://github.com/xCss/Valine
   valine:
+    language: zh-cn
+    verify: false
+    pageSize: 10
+    guest_info: nick, mail,link
+    avatar: mm
     appid: 17ridxj5tBJ5tb7tv3e8PAB4-MdYXbMMI # your leancloud application appid
     appkey: pOYfdIUctWfslCL8P0OtmByr # your leancloud application appkey
     placeholder: 来都来了，总的说点啥吧~ # your placeholder
