@@ -67,12 +67,12 @@ social_contact:
 # Navigation menu
 # ---------------------------------------------------------------------------------------
 menu:
-  Home: /
-  Archives: /archives
-  Categories: /categories
-  Tags: /tags
-  Links: /links
-  About: /about
+  Home | 首页: /
+  Archives | 归档: /archives
+  Categories | 分类: /categories
+  Tags | 标签: /tags
+  Links | 友链: /links
+  About | 关于: /about
   # Changelog: /changelog
   # ......
 
