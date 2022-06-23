@@ -101,6 +101,11 @@ ignore:
 #theme: bear
 theme: keep
 
+base_info:
+  title: jayHuang'blog
+  author:jayHuang
+  url: https://blog.jjhuang.cn/
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
