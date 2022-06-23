@@ -66,15 +66,25 @@ social_contact:
 # ---------------------------------------------------------------------------------------
 # Navigation menu
 # ---------------------------------------------------------------------------------------
-menu:
-  Home | 首页: /
-  Archives | 归档: /archives
-  Categories | 分类: /categories
-  Tags | 标签: /tags
-  Links | 友链: /links
-  About | 关于: /about
+# menu:
+#   Home | 首页: /
+#   Archives | 归档: /archives
+#   Categories | 分类: /categories
+#   Tags | 标签: /tags
+#   Links | 友链: /links
+#   About | 关于: /about
   # Changelog: /changelog
   # ......
+
+
+menu:
+  首页: /
+  归档: /archives
+  分类: /categories
+  标签: /tags
+  友链: /links
+  关于: /about  
+  更新日志: /changelog
 
 # ---------------------------------------------------------------------------------------
 # Home page article block display settings
