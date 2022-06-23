@@ -170,7 +170,7 @@ local_search:
 # ---------------------------------------------------------------------------------------
 comment:
   enable: true
-  use: valine # values: valine | gitalk | twikoo
+  use: gitalk # values: valine | gitalk | twikoo
 
   # Valine
   # See: https://github.com/xCss/Valine
